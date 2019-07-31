@@ -1,0 +1,8 @@
+
+micro:
+    service:
+      corePoolSize: 10
+      maxPoolSize: 100
+      queueCapacity: 10
+server:
+  port: 18080
